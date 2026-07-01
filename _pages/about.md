@@ -28,5 +28,7 @@ latest_posts:
 ---
 
 <div class="about-intro" markdown="1">
-I am a Ph.D. student in the AI Graduate School at GIST, advised by Prof. Sundong Kim. My research is in reinforcement learning, with a focus on building agents that adapt efficiently across diverse tasks and environments. I am interested in world models, temporal abstraction, and how agents can extract and generalize reusable knowledge to make robust decisions in new settings.
+I am a Ph.D. student in the AI Graduate School at GIST, advised by Prof. Sundong Kim. My research is in reinforcement learning, with a focus on building agents that adapt efficiently across diverse tasks and environments.
+
+I am interested in world models, temporal abstraction, and how agents can extract and generalize reusable knowledge to make robust decisions in new settings.
 </div>
