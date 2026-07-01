@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Student, AI Graduate School, <a href='https://www.gist.ac.kr'>GIST</a>
 
 profile:
   align: right
   image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>AI Graduate School, GIST</p>
+    <p>Gwangju, South Korea</p>
+    <p>jihwan.lee@gm.gist.ac.kr</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,4 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<div class="about-intro" markdown="1">
 I am a Ph.D. student in the AI Graduate School at GIST, advised by Prof. Sundong Kim. My research is in reinforcement learning, with a focus on building agents that adapt efficiently across diverse tasks and environments. I am interested in world models, temporal abstraction, and how agents can extract and generalize reusable knowledge to make robust decisions in new settings.
+</div>

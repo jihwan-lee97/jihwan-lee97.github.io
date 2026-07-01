@@ -7,3 +7,11 @@ overrides:
     reason: >
       Change the hardcoded "selected publications" heading text to "publications"
       on the about page while keeping the built-in selected_papers rendering path.
+  - path: assets/css/main.scss
+    owner_gem: al_folio_core
+    owner_gem_version: "1.0.11"
+    upstream_sha256: 437c6c911c596391413e435dc0ea7095e682e85c572c1fd3fff69f9597455b3e
+    local_sha256: 0a6f5d7505771f044b9b40d192b4519e0ef738d7e0f195f739664ab129685042
+    reason: >
+      Append a .about-intro rule to increase the bio paragraph font size on the
+      about page.
